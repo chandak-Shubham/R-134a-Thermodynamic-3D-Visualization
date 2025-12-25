@@ -9,24 +9,23 @@ The project was completed as part of the **ES 211 – Thermodynamics** course at
 ## Core Features
 
 ### 1. Thermodynamic Data Generation
-- Generated P–v–T data for R-134a using the **Cantera** real-fluid library  
-- Covered subcooled liquid, two-phase, and superheated vapor regions  
+- Generated P–v–T data for R-134a using the **Cantera** real-fluid library. 
 
 ### 2. 3D Visualization
-- MATLAB-based visualization of the liquid–vapor dome  
-- Clear identification of phase regions and critical point behavior  
+- MATLAB-based visualization of the liquid–vapor dome.  
+- Clear identification of phase regions and critical point behavior.  
 
 ### 3. CSV to STL Conversion
-- Converted thermodynamic point-cloud data into a 3D surface mesh using Python  
-- Generated a high-resolution STL model of the P–v–T surface  
+- Converted thermodynamic point-cloud data into a 3D surface mesh using Python.  
+- Generated a high-resolution STL model of the P–v–T surface.  
 
 ### 4. Mesh Processing and 3D Printing
-- Mesh repair, simplification, and enclosure using **Blender**  
-- Fabricated a physical 3D model using PLA filament  
+- Mesh repair, simplification, and enclosure using **Blender**.  
+- Fabricated a physical 3D model using PLA filament.  
 
 ### 5. Refrigeration Cycle Analysis
-- Studied the vapor-compression refrigeration cycle using R-134a  
-- Calculated system performance parameters including **COP (~3.9)**  
+- Studied the vapor-compression refrigeration cycle using R-134a.  
+- Calculated system performance parameters including **COP (~3.9)**.  
 
 ---
 
@@ -44,7 +43,7 @@ The project was completed as part of the **ES 211 – Thermodynamics** course at
 
 ### Prerequisites
 - MATLAB (with Cantera configured)  
-- Python 3.x  
+- Python   
 - Blender  
 
 ### Usage
